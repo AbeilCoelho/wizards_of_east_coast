@@ -1,0 +1,39 @@
+1 Bojuka Bog
+1 Cavern of Souls
+1 Commercial District
+1 Devourer of Destiny
+4 Eldrazi Temple
+2 Emrakul, the Exigent Doom
+3 Emrakul, the Promised End
+3 Forest
+2 Formidable Speaker
+1 Ghost Quarter
+2 Herigast, Erupting Nullkite
+2 Icetill Explorer
+1 Improvisation Capstone
+4 Kozilek's Command
+2 Kozilek's Return
+4 Malevolent Rumble
+1 Sanctum of Ugin
+1 Shifting Woodland
+1 Sire of Seven Deaths
+4 Sowing Mycospawn
+2 Stomping Ground
+3 Talisman of Impulse
+1 Ugin, Eye of the Storms
+4 Ugin's Labyrinth
+2 Unholy Heat
+4 Utopia Sprawl
+3 Wooded Foothills
+1 World Breaker
+
+
+2 Blood Moon
+2 Fade from History
+1 Grafdigger's Cage
+2 Nature's Claim
+2 Null Elemental Blast
+2 Surgical Extraction
+1 Torpor Orb
+2 Trinisphere
+1 Vexing Bauble

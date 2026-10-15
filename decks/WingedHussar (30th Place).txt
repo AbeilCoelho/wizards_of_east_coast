@@ -1,0 +1,42 @@
+1 Ancestral Recall
+4 Bilbo, Thief in the Night
+1 Black Lotus
+1 Flooded Strand
+4 Flow State
+4 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Karakas
+1 Lavinia, Azorius Renegade
+3 Lórien Revealed
+1 Mental Misstep
+1 Meticulous Archive
+2 Misty Rainforest
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Null Rod
+1 Polluted Delta
+3 Ponder
+2 Prismatic Ending
+3 Ragavan, Nimble Pilferer
+1 Scalding Tarn
+1 Stock Up
+1 Strip Mine
+3 Swords to Plowshares
+1 Time Walk
+2 Tundra
+1 Urza's Saga
+1 Vexing Bauble
+3 Volcanic Island
+4 Wasteland
+
+
+3 Containment Priest
+1 Lurrus of the Dream-Den
+2 Path to Exile
+3 Pyroblast
+2 Soul-Guide Lantern
+2 Stony Silence
+1 Swords to Plowshares
+1 The Tabernacle at Pendrell Vale

@@ -1,0 +1,23 @@
+1 Boomerang
+2 Cephalid Coliseum
+4 Counterspell
+4 Daze
+4 Flooded Strand
+4 Gush
+6 Island
+4 Lord of Atlantis
+4 Opt
+2 Patron Wizard
+4 Polluted Delta
+4 Portent
+4 Rootwater Mystic
+4 Sleight of Hand
+4 Tidal Visionary
+3 Unsummon
+2 Winter Orb
+
+
+4 Annul
+4 Blue Elemental Blast
+3 Essence Flare
+4 Wasteland

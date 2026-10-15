@@ -1,0 +1,43 @@
+1 Ancestral Recall
+1 Badlands
+1 Black Lotus
+3 Bloodstained Mire
+1 Brainstorm
+4 Dark Ritual
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dig Through Time
+4 Doomsday
+1 Duress
+4 Flow State
+2 Flusterstorm
+4 Force of Will
+1 Gitaxian Probe
+1 Gush
+1 Island
+1 Lotus Petal
+1 Mental Misstep
+1 Mox Jet
+1 Mox Sapphire
+1 Necropotence
+2 Polluted Delta
+4 Ponder
+3 Scalding Tarn
+4 Street Wraith
+2 Thassa's Oracle
+1 Thoughtseize
+1 Time Walk
+1 Undercity Sewers
+3 Underground Sea
+1 Vampiric Tutor
+1 Volcanic Island
+
+
+1 Flusterstorm
+2 Force of Negation
+3 Hexing Squelcher
+1 Hurkyl's Recall
+4 Leyline of the Void
+1 Long Goodbye
+2 Null Rod
+1 Steel Sabotage

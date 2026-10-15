@@ -1,0 +1,39 @@
+1 Badlands
+1 Blood Moon
+2 Bloodstained Mire
+4 Brainstorm
+4 Fatal Push
+3 Flame of Anor
+2 Flow State
+4 Force of Will
+1 Kaito, Bane of Nightmares
+1 Molten Collapse
+1 Murktide Regent
+3 Orcish Bowmasters
+3 Polluted Delta
+3 Ponder
+1 Prismatic Vista
+3 Scalding Tarn
+1 Sheoldred's Edict
+1 Snapcaster Mage
+4 Snow-Covered Island
+1 Snow-Covered Mountain
+2 Snow-Covered Swamp
+4 Tamiyo, Inquisitive Student
+1 The Theorist, Jace Beleren
+3 Thoughtseize
+3 Thundertrap Trainer
+1 Undercity Sewers
+1 Underground Sea
+1 Volcanic Island
+
+
+1 Blood Moon
+3 Consign to Memory
+2 Force of Negation
+1 Hydroblast
+1 Massacre
+1 Meltdown
+2 Nihil Spellbomb
+3 Pyroblast
+1 Toxic Deluge

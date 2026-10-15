@@ -1,0 +1,102 @@
+1 Archmage's Charm
+1 Arid Mesa
+1 Badlands
+1 Bitter Triumph
+1 Bleachbone Verge
+1 Bloodstained Mire
+1 Brainstorm
+1 Brainsurge
+1 Caves of Koilos
+1 Change the Equation
+1 Cling to Dust
+1 Command Tower
+1 Consult the Star Charts
+1 Counterspell
+1 Cryptic Command
+1 Cut Down
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dismember
+1 Drown in the Loch
+1 Duress
+1 Evasive Action
+1 Fatal Push
+1 Fire Nation Occupation
+1 Flashback
+1 Flood Plain
+1 Flooded Strand
+1 Floodfarm Verge
+1 Force of Negation
+1 Force Spike
+1 Forth Eorlingas!
+1 Gitaxian Probe
+1 Gloomlake Verge
+1 Godless Shrine
+1 Hallowed Fountain
+1 Inquisition of Kozilek
+1 Intuition
+1 Island
+1 Jace, Wielder of Mysteries
+1 Jace's Machinations
+1 Kaya's Guile
+1 Leyline Binding
+1 Lórien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Mana Tithe
+1 Marsh Flats
+1 Memory Deluge
+1 Memory Lapse
+1 Mental Misstep
+1 Meticulous Archive
+1 Mistrise Village
+1 Misty Rainforest
+1 Multiversal Passage
+1 Mystic Sanctuary
+1 No More Lies
+1 Otawara, Soaring City
+1 Oust
+1 Peek
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Preordain
+1 Prismatic Ending
+1 Prismatic Vista
+1 Remand
+1 Reprieve
+1 Scalding Tarn
+1 Scrubland
+1 Seam Rip
+1 Shorikai, Genesis Engine
+1 Sink into Stupor
+1 Siphon Insight
+1 Snow-Covered Island
+1 Spell Snare
+1 Starting Town
+1 Steam Vents
+1 Stern Scolding
+1 Swamp
+1 Swords to Plowshares
+1 Tainted Pact
+1 Tale's End
+1 Theorist's Sanctum
+1 Thoughtseize
+1 Thundering Falls
+1 Tithe
+1 Toxic Deluge
+1 Tundra
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wash Away
+1 Waterlogged Teachings
+1 Watery Grave
+1 What Must Be Done
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrath of the Skies
+
+
+1 Jace, Multiverse Architect

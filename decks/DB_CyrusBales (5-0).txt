@@ -1,0 +1,30 @@
+4 Bloodstained Mire
+4 Cabal Therapy
+4 Call of the Herd
+1 City of Brass
+1 Cursed Scroll
+1 Diabolic Edict
+3 Duress
+2 Forest
+3 Grim Lavamancer
+4 Lightning Bolt
+1 Llanowar Wastes
+2 Mountain
+1 Nantuko Vigilante
+4 Ravenous Rats
+4 Sulfurous Springs
+2 Swamp
+4 Sylvan Library
+3 Tempting Wurm
+4 Terminate
+4 Treetop Village
+4 Wooded Foothills
+
+
+2 Engineered Plague
+3 Naturalize
+2 Pyroblast
+2 Pyroclasm
+1 Red Elemental Blast
+3 Tormod's Crypt
+2 Tranquil Domain

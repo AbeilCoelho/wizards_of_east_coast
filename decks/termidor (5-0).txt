@@ -1,0 +1,33 @@
+1 Arid Mesa
+3 Blood Crypt
+4 Bloodstained Mire
+1 Boggart Trawler
+4 Dark Matter Manipulator
+4 Detective's Phoenix
+2 Dreams of Steel and Oil
+4 Fear of Missing Out
+4 Lightning Bolt
+2 Marsh Flats
+4 Mishra's Bauble
+4 Moonshadow
+1 Mountain
+4 Nethergoyf
+1 Raucous Theater
+4 Street Wraith
+2 Swamp
+4 Thoughtseize
+2 Troll of Khazad-dûm
+3 Unholy Heat
+2 Verdant Catacombs
+
+
+1 Blood Moon
+1 Fatal Push
+2 Glistening Deluge
+1 Inquisition of Kozilek
+2 Magebane Lizard
+2 Meltdown
+1 Molten Collapse
+1 Nihil Spellbomb
+3 Obsidian Charmaw
+1 Surgical Extraction

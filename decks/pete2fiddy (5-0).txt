@@ -1,0 +1,37 @@
+4 Amulet of Vigor
+4 Arboreal Grazer
+3 Boseiju, Who Endures
+3 Crumbling Vestige
+1 Cultivator Colossus
+1 Dryad Arbor
+4 Dryad of the Ilysian Grove
+2 Forest
+1 Golgari Rot Farm
+4 Green Sun's Zenith
+4 Gruul Turf
+1 Hanweir Battlements
+1 Mirrorpool
+1 Otawara, Soaring City
+4 Primeval Titan
+1 Roiling Canopy
+3 Scapeshift
+4 Simic Growth Chamber
+4 Spelunking
+3 Summoner's Pact
+1 Tolaria West
+4 Urza's Saga
+1 Valakut, the Molten Pinnacle
+1 Vesuva
+1 Yavimaya, Cradle of Growth
+
+
+1 Bojuka Bog
+1 Collector Ouphe
+3 Dismember
+2 Firespout
+2 Grafdigger's Cage
+1 Grist, the Hunger Tide
+1 Icetill Explorer
+1 Six
+1 The Wandering Minstrel
+2 Vexing Bauble

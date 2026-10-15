@@ -1,0 +1,102 @@
+1 Animate Dead
+1 Archon of Cruelty
+1 Arid Mesa
+1 Badlands
+1 Bloodstained Mire
+1 Brainstorm
+1 Brainsurge
+1 Cactus Preserve
+1 Castle Ardenvale
+1 Cling to Dust
+1 Command Tower
+1 Consult the Star Charts
+1 Counterspell
+1 Cryptic Command
+1 Cut Down
+1 Damn
+1 Daze
+1 Demonic Tutor
+1 Drowned Catacomb
+1 Erode
+1 Evasive Action
+1 Fatal Push
+1 Fire Nation Occupation
+1 Flooded Strand
+1 Flow State
+1 Force of Negation
+1 Force Spike
+1 Forth Eorlingas!
+1 Galvanic Discharge
+1 Gitaxian Probe
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Iona, Shield of Emeria
+1 Island
+1 Kaya's Guile
+1 Leyline Binding
+1 Lightning Bolt
+1 Lórien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Mana Tithe
+1 Marsh Flats
+1 Memory Deluge
+1 Memory Lapse
+1 Mental Misstep
+1 Meticulous Archive
+1 Misty Rainforest
+1 Mountain
+1 Mystic Confluence
+1 Mystic Sanctuary
+1 No More Lies
+1 Otawara, Soaring City
+1 Oust
+1 Pinnacle Starcage
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Ponder
+1 Prismatic Ending
+1 Prismatic Vista
+1 Raffine's Tower
+1 Raugrin Triome
+1 Reflecting Pool
+1 Remand
+1 Reprieve
+1 Sauron's Ransom
+1 Scalding Tarn
+1 Scrubland
+1 Sheoldred's Edict
+1 Shorikai, Genesis Engine
+1 Sink into Stupor
+1 Snuff Out
+1 Spell Pierce
+1 Spell Snare
+1 Steam Vents
+1 Stern Scolding
+1 Stifle
+1 Stock Up
+1 Sunset Revelry
+1 Supreme Verdict
+1 Swamp
+1 Swords to Plowshares
+1 Tale's End
+1 Theorist's Sanctum
+1 Theorix Charm
+1 Thundering Falls
+1 Tithe
+1 Toxic Deluge
+1 Tundra
+1 Undercity Sewers
+1 Underground Sea
+1 Valgavoth, Terror Eater
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wash Away
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrath of the Skies
+
+
+1 Jace, Multiverse Architect

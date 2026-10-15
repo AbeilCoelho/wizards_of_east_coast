@@ -1,0 +1,81 @@
+
+
+
+1 Afterthought Sentry
+1 Apex Witchstalker
+2 Artifist Acumen
+1 Awaken the Inferno
+1 Blazing Crescendo
+1 Blessed Ghoul
+1 Campus Crier
+1 Chandra's Emberling
+1 Charge the Sanctum
+1 Clash of Elements
+1 Codie, Ravenous Codex
+1 Command the Stage
+1 Countersculpt
+1 Cryotheory Adept
+1 Eardrum Rattler
+1 Emergency Phytomedic
+1 Extended Absence
+1 Forest
+2 Greenhouse Propagator
+1 Grim Repriser
+1 Hapatra, the Desert Fang
+1 Heartwood Crafter
+1 Icy Reception
+1 Innovative Commons
+1 Keeper of the Quiet Hour
+1 Konstrari Annex
+2 Konstrari Improviser
+1 Kwia Vigorbloom
+1 Loot, the Anomaly
+1 Loot, the Nexus
+1 Lyra, Archangel of Dawn
+1 Mabel, Bitter Recluse
+1 Mabel, Valley Hero
+1 Memory Trap
+2 No Admittance
+1 Overgrown Farmland
+1 Pia, Aether Ascetic
+1 Pia, Determined Rebuilder
+1 Plains
+1 Precise Redaction
+1 Predictive Preparations
+1 Proft, Sinister Mastermind
+1 Protege's Awakening
+1 Rampart Hunter
+1 Rescue Girl, First Responder
+1 Restore with Empathy
+1 Rise of the Deathbringer
+1 Roiling Canopy
+1 Ruric Thar, Biomagus
+2 Semester Foreseer
+1 Skilled Battlecarver
+1 Solve for Disappointment
+1 Sphinx of False Conclusions
+1 Sphinx's Approach
+1 Sureshot Sower
+1 Surgical Precision
+1 Swamp
+1 Terminal Criticism
+1 Tether Technician
+1 Teyo, Diamondblade Mage
+1 Teyo, Lightshield Expert
+2 Theoretical Necromancer
+1 Theorist's Proxy
+1 Tomik, Izzet Sparkmage
+1 Tomik, Orzhov Lawmage
+1 Transformative Commons
+1 Traxos, Academy Guardian
+1 Traxos, Scourge Eternal
+1 Twinned Vision
+1 Twisted Fates
+1 Undulating Witness
+1 Unsummon
+1 Vinelasher Adept
+1 Violent Echoes
+1 Way of the Wildspeaker
+1 Winter, Team Player
+1 Winter, Tormented Loner
+1 Wrecking Gecko

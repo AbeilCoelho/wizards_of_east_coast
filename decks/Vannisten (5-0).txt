@@ -1,0 +1,27 @@
+4 Gempalm Incinerator
+1 Goblin Goon
+1 Goblin King
+4 Goblin Lackey
+4 Goblin Matron
+4 Goblin Piledriver
+4 Goblin Ringleader
+1 Goblin Sharpshooter
+1 Goblin Sledder
+2 Goblin Tinkerer
+4 Goblin Warchief
+4 Mogg Fanatic
+18 Mountain
+4 Rishadan Port
+3 Siege-Gang Commander
+1 Wasteland
+
+
+1 Anarchy
+1 Flaring Pain
+1 Flash of Defiance
+1 Goblin Goon
+3 Overload
+1 Pyroblast
+3 Pyrokinesis
+2 Red Elemental Blast
+2 Tormod's Crypt

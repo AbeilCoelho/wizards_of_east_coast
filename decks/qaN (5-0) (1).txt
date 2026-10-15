@@ -1,0 +1,93 @@
+1 Abrupt Decay
+1 Agonizing Remorse
+1 Alpha Deathclaw
+1 Animate Dead
+1 Archon of Cruelty
+1 Ash Barrens
+1 Bayou
+1 Binding the Old Gods
+1 Bitter Triumph
+1 Bloodstained Mire
+1 Boggart Trawler
+1 Bone Shards
+1 Boseiju, Who Endures
+1 Cabal Coffers
+1 Cache Grab
+1 Collective Brutality
+1 Command Tower
+1 Consuming Corruption
+1 Dead Weight
+1 Defile
+1 Demonic Counsel
+1 Demonic Tutor
+1 Dina's Guidance
+1 Dismember
+1 Dread Fugue
+1 Duress
+1 Emrakul, the Promised End
+1 Extinguisher Battleship
+1 Fabled Passage
+1 Fatal Push
+1 Festering Thicket
+2 Forest
+1 Formidable Speaker
+1 Gastal Raider
+1 Generous Ent
+1 Grief
+1 Grisly Salvage
+1 Harvester of Misery
+1 Haywire Mite
+1 Icetill Explorer
+1 Inquisition of Kozilek
+1 Kishla Village
+1 Malevolent Rumble
+1 Marsh Flats
+1 Midnight Tilling
+1 Mishra's Bauble
+1 Misty Rainforest
+1 Multiversal Passage
+1 Nameless Inversion
+1 Necron Deathmark
+1 Nihil Spellbomb
+1 Overgrown Tomb
+1 Overlord of the Balemurk
+1 Pernicious Deed
+1 Polluted Delta
+1 Portal to Phyrexia
+1 Primal Witchstalker
+1 Primeval Titan
+1 Prismatic Vista
+1 Red Room Recruit
+1 Riveteers Overlook
+1 Satyr Wayfinder
+1 Sheoldred's Edict
+1 Shifting Woodland
+1 Sinister Concoction
+1 Something Worth Saving
+1 Soul-Guide Lantern
+1 Sowing Mycospawn
+1 Summon: Bahamut
+9 Swamp
+1 Thoughtseize
+1 Town Greeter
+1 Toxic Deluge
+1 Traverse the Ulvenwald
+1 Troll of Khazad-dûm
+1 Ugin, Eye of the Storms
+1 Ugin, the Spirit Dragon
+1 Underground Mortuary
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Bauble
+1 Urza's Cave
+1 Verdant Catacombs
+1 Vernal Fen
+1 Vicious Rivalry
+1 Wild Growth
+1 Windswept Heath
+1 Witherbloom Charm
+1 Witherbloom Command
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+
+
+1 Winter, Cynical Opportunist

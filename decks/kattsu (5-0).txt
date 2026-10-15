@@ -1,0 +1,32 @@
+1 Arid Mesa
+3 Blood Crypt
+4 Bloodstained Mire
+4 Dark Matter Manipulator
+4 Detective's Phoenix
+4 Fear of Missing Out
+4 Flare of Malice
+3 Lightning Bolt
+1 Marsh Flats
+4 Mishra's Bauble
+4 Moonshadow
+1 Mountain
+4 Nethergoyf
+1 Orcish Bowmasters
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+4 Stitcher's Supplier
+4 Street Wraith
+2 Swamp
+1 Troll of Khazad-dûm
+2 Verdant Catacombs
+2 Whispers of Emrakul
+
+
+1 Claim the Firstborn
+3 Dauthi Voidwalker
+2 Meltdown
+2 Ob Nixilis, the Adversary
+3 Pyroclasm
+1 Surgical Extraction
+3 Thoughtseize

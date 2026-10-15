@@ -1,0 +1,30 @@
+4 Brushland
+1 Elfhame Palace
+4 Forest
+4 Mishra's Factory
+4 Oath of Druids
+1 Plains
+3 Rishadan Port
+2 Smokestack
+4 Sphere of Resistance
+3 Swords to Plowshares
+3 Sylvan Library
+4 Terravore
+4 Thermokarst
+3 Treetop Village
+1 Verdant Touch
+4 Wasteland
+4 Wild Growth
+4 Windswept Heath
+3 Winter's Grasp
+
+
+3 Call of the Herd
+1 Crumble
+4 Glowrider
+2 Naturalize
+1 Smokestack
+1 Sphere of Law
+1 Swords to Plowshares
+1 Tranquil Domain
+1 Zuran Orb

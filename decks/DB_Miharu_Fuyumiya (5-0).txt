@@ -1,0 +1,42 @@
+1 Abrupt Decay
+1 Ancestral Recall
+4 Avatar of Burgeoning Echoes
+1 Bayou
+1 Black Lotus
+1 Boseiju, Who Endures
+1 Carnivorous Cultivator
+3 Collector Ouphe
+2 Daze
+4 Deathrite Shaman
+1 Demonic Tutor
+2 Fatal Push
+3 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Marwyn, the Preserver
+1 Mental Misstep
+3 Misty Rainforest
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+3 Polluted Delta
+4 Psychic Frog
+2 Spell Pierce
+1 Strip Mine
+1 Time Walk
+1 Treasure Cruise
+3 Tropical Island
+3 Underground Sea
+4 Wasteland
+
+
+1 Assassin's Trophy
+1 Collector Ouphe
+2 Dismember
+2 Fatal Push
+2 Force of Vigor
+2 Grafdigger's Cage
+1 Lurrus of the Dream-Den
+2 Nihil Spellbomb
+1 Snuff Out
+1 The Tabernacle at Pendrell Vale

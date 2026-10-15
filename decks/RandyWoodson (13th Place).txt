@@ -1,0 +1,40 @@
+1 Ancestral Recall
+4 Ancient Tomb
+1 Black Lotus
+4 Coveted Jewel
+4 Force of Will
+4 Grim Monolith
+1 Island
+1 Karn, the Great Creator
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Workshop
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Paradoxical Outcome
+3 Phyrexian Metamorph
+1 Sensei's Divining Top
+3 Sink into Stupor
+1 Sol Ring
+1 Tezzeret the Seeker
+4 Tezzeret, Cruel Captain
+1 The Fantasticar
+4 The One Ring
+1 Time Vault
+1 Time Walk
+1 Tinker
+1 Tolarian Academy
+1 Urza's Saga
+1 Vexing Bauble
+
+
+4 Argentum Masticore
+3 Defense Grid
+3 Force of Negation
+1 Grafdigger's Cage
+3 Petrified Hamlet
+1 Wurmcoil Engine

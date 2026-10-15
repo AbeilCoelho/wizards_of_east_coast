@@ -1,0 +1,29 @@
+1 Arid Mesa
+2 Bloodstained Mire
+4 Boomerang Basics
+4 Cori-Steel Cutter
+4 Dragon's Rage Channeler
+3 Expressive Iteration
+2 Fiery Islet
+1 Island
+4 Lava Dart
+4 Lightning Bolt
+4 Mishra's Bauble
+3 Monastery Swiftspear
+2 Mountain
+3 Pompous Battlemage
+4 Preordain
+1 Riverpyre Verge
+4 Scalding Tarn
+3 Steam Vents
+4 Stormchaser's Talent
+1 Thundering Falls
+2 Wooded Foothills
+
+
+1 Consign to Memory
+3 Force of Negation
+4 Obsidian Charmaw
+1 Spell Pierce
+2 Tormod's Crypt
+4 Unholy Heat

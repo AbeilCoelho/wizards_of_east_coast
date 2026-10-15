@@ -1,0 +1,29 @@
+1 Barren Moor
+4 Cabal Therapy
+1 Deranged Hermit
+1 Diabolic Edict
+4 Duress
+1 Dust Bowl
+8 Forest
+3 Graveborn Muse
+3 Krosan Tusker
+4 Llanowar Wastes
+4 Pernicious Deed
+1 Phyrexian Furnace
+3 Ravenous Baloth
+4 Ravenous Rats
+1 Recurring Nightmare
+2 Smother
+8 Swamp
+3 Treetop Village
+4 Wall of Blossoms
+
+
+1 Chainer's Edict
+1 Dust Bowl
+4 Engineered Plague
+2 Haunting Echoes
+3 Naturalize
+1 Phyrexian Furnace
+1 Spike Feeder
+2 Tranquil Domain

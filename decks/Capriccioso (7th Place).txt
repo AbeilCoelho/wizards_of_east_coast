@@ -1,0 +1,55 @@
+1 Ancestral Recall
+3 Bilbo, Thief in the Night
+1 Black Lotus
+1 Bolas's Citadel
+1 Boomerang Basics
+1 Brain Freeze
+1 Brainstorm
+1 Demonic Tutor
+2 Flooded Strand
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+2 Hexing Squelcher
+1 Island
+1 Lórien Revealed
+1 Lotus Petal
+1 Mana Crypt
+1 Merchant Scroll
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystical Tutor
+2 Polluted Delta
+2 Pyroblast
+2 Scalding Tarn
+1 Sensei's Divining Top
+1 Sink into Stupor
+1 Sol Ring
+1 Soul-Guide Lantern
+2 Stock Up
+1 The Fantasticar
+1 Time Walk
+1 Tinker
+1 Tolarian Academy
+1 Undercity Sewers
+2 Underground Sea
+2 Underworld Breach
+1 Urza's Saga
+1 Vampiric Tutor
+1 Vexing Bauble
+3 Volcanic Island
+
+
+1 Abrade
+1 Bilbo, Thief in the Night
+4 Consign to Memory
+2 Dismember
+1 Flusterstorm
+1 Force of Negation
+2 Hexing Squelcher
+1 Portal to Phyrexia
+2 Pyroblast

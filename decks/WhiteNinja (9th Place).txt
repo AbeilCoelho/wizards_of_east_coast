@@ -1,0 +1,41 @@
+1 Bloodstained Mire
+1 Cling to Dust
+2 Consign to Memory
+2 Counterspell
+1 Darkslick Shores
+1 Drown in the Loch
+4 Fatal Push
+1 Flooded Strand
+3 Force of Negation
+1 Gloomlake Verge
+2 Island
+1 Kaito, Bane of Nightmares
+1 Marsh Flats
+1 Murktide Regent
+3 Orcish Bowmasters
+1 Otawara, Soaring City
+4 Polluted Delta
+4 Psychic Frog
+4 Quantum Riddler
+1 Scalding Tarn
+2 Sheoldred's Edict
+2 Sink into Stupor
+2 Spell Snare
+3 Subtlety
+1 Swamp
+2 Tamiyo, Inquisitive Student
+1 Theorist's Sanctum
+3 Thoughtseize
+2 Undercity Sewers
+3 Watery Grave
+
+
+2 Break the Ice
+2 Consign to Memory
+2 Engineered Explosives
+2 Harbinger of the Seas
+2 Mystical Dispute
+2 Nihil Spellbomb
+1 Requiting Hex
+1 Stern Scolding
+1 Toxic Deluge

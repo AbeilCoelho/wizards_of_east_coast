@@ -1,0 +1,41 @@
+4 Archmage's Charm
+2 Brainsurge
+1 Castle Vantress
+1 Consign to Memory
+1 Consult the Star Charts
+4 Counterspell
+2 Cryptic Command
+2 Dress Down
+4 Fatal Push
+1 Field of Ruin
+3 Flooded Strand
+1 Force of Negation
+2 Gloomlake Verge
+5 Island
+1 Logic Knot
+1 Memory Deluge
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Secluded Starforge
+1 Shark Typhoon
+3 Sheoldred's Edict
+3 Snapcaster Mage
+3 Spell Snare
+1 Theorist's Sanctum
+2 Undercity Sewers
+1 Unmoored Ego
+1 Wan Shi Tong, Librarian
+3 Watery Grave
+
+
+1 Ashiok, Dream Render
+1 Break the Ice
+3 Consign to Memory
+1 Dress Down
+1 Engineered Explosives
+4 Mystical Dispute
+1 Requiting Hex
+1 Surgical Extraction
+1 Test of Talents
+1 Toxic Deluge

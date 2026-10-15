@@ -1,0 +1,74 @@
+1 Bloodchief's Thirst
+1 Bloodstained Mire
+1 Brainstorm
+1 Brainsurge
+1 Consider
+1 Disrupting Shoal
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Duress
+1 Fatal Push
+1 Flooded Strand
+1 Flow State
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gloomlake Verge
+1 Hidden Lair
+1 Innocent Blood
+1 Inquisition of Kozilek
+1 Island
+1 Jace's Machinations
+1 Lórien Revealed
+1 Marsh Flats
+1 Minor Misstep
+1 Misdirection
+1 Mishra's Bauble
+1 Misty Rainforest
+1 Muddle the Mixture
+1 Murktide Regent
+1 Mystic Sanctuary
+1 Mystical Dispute
+1 Narset, Parter of Veils
+1 Polluted Delta
+1 Ponder
+1 Prismatic Vista
+1 Sauron's Ransom
+1 Scalding Tarn
+1 Sheoldred's Edict
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Snuff Out
+1 Spell Pierce
+1 Spell Snare
+1 Step Through
+1 Stern Scolding
+1 Sunken Ruins
+1 Swamp
+2 Tainted Pact
+1 Tamiyo, Inquisitive Student
+1 Temporal Mastery
+2 Thassa's Oracle
+1 Thoughtseize
+1 Undercity Sewers
+1 Underground Sea
+1 Urza's Bauble
+1 Verdant Catacombs
+1 Watery Grave
+1 Wretched Banquet
+
+
+1 Annul
+1 Blue Elemental Blast
+1 Ceremonious Rejection
+1 Consign to Memory
+1 Energy Flux
+1 Engineered Explosives
+1 Hurkyl's Recall
+1 Hydroblast
+1 Massacre
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Null Rod
+1 Surgical Extraction
+1 Toxic Deluge

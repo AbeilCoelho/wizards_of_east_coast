@@ -1,0 +1,28 @@
+4 Biotech Specialist
+4 Blazemire Verge
+3 Blood Crypt
+4 Blooming Marsh
+4 Callous Inspector
+4 Charming Scoundrel
+3 Deadly Precision
+4 Greedy Freebooter
+4 Lively Dirge
+4 Obsessive Pursuit
+4 Overgrown Tomb
+2 Rottenmouth Viper
+1 Starting Town
+4 Stomping Ground
+2 Swamp
+3 The Ooze
+4 The Sackville-Bagginses
+1 Umbral Collar Zealot
+1 Wastewood Verge
+
+
+2 Duress
+4 Karn, Argent Defender
+2 Rottenmouth Viper
+4 Terminal Criticism
+1 The Ooze
+1 Vengeful Tracker
+1 Witherbloom Charm

@@ -1,0 +1,47 @@
+1 Ancestral Recall
+1 Black Lotus
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+1 Daze
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dig Through Time
+4 Doomsday
+2 Flooded Strand
+1 Flow State
+1 Flusterstorm
+4 Force of Will
+1 Gitaxian Probe
+1 Gush
+1 Imperial Seal
+1 Mental Misstep
+2 Misty Rainforest
+1 Mox Jet
+1 Mox Sapphire
+1 Mystical Tutor
+1 Necropotence
+2 Polluted Delta
+4 Ponder
+2 Preordain
+2 Scalding Tarn
+1 Snow-Covered Island
+2 Spell Pierce
+4 Street Wraith
+2 Thassa's Oracle
+1 Time Walk
+1 Undercity Sewers
+4 Underground Sea
+1 Vampiric Tutor
+
+
+1 Force of Negation
+1 Hurkyl's Recall
+4 Leyline of the Void
+2 Mindbreak Trap
+1 Murktide Regent
+1 Null Rod
+1 Snuff Out
+1 Steel Sabotage
+1 The Tabernacle at Pendrell Vale
+2 Unable to Scream

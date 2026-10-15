@@ -1,0 +1,30 @@
+1 Aloe Alchemist
+4 Blackcleave Cliffs
+1 Blightstep Pathway
+4 Blooming Marsh
+1 Boseiju, Who Endures
+2 Cavern of Souls
+4 Chancellor of the Annex
+2 Copperline Gorge
+4 Cosmogoyf
+1 Darkbore Pathway
+4 Devourer of Destiny
+4 Gemstone Caverns
+4 Gemstone Mine
+1 Inquisition of Kozilek
+4 Pact of Negation
+4 Plunge into Darkness
+4 Serum Powder
+4 Spoils of the Vault
+2 Summoner's Pact
+1 Swamp
+4 Thud
+
+
+1 Cavern of Souls
+1 Forest
+3 Grafdigger's Cage
+2 Inquisition of Kozilek
+3 Leyline of Sanctity
+2 Natural State
+3 Not of This World

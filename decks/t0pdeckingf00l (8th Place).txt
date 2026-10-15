@@ -1,0 +1,54 @@
+1 Ancestral Recall
+1 Black Lotus
+1 Bolas's Citadel
+1 Demonic Tutor
+4 Flooded Strand
+4 Flow State
+2 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Hullbreacher
+1 Island
+1 Karn, the Great Creator
+4 Lórien Revealed
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Mental Misstep
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Portable Hole
+1 Sensei's Divining Top
+1 Sink into Stupor
+1 Sol Ring
+4 Stock Up
+2 Swords to Plowshares
+1 Tezzeret, Cruel Captain
+1 Time Vault
+1 Time Walk
+1 Tinker
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+1 Urza's Saga
+1 Waterlogged Teachings
+1 Yawgmoth's Will
+
+
+1 Commandeer
+2 Consign to Memory
+2 Containment Priest
+1 Opposition Agent
+1 Pithing Needle
+1 Plains
+1 Portable Hole
+1 Soul-Guide Lantern
+1 Sphinx of the Steel Wind
+2 Swords to Plowshares
+1 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt

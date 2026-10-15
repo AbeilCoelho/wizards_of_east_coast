@@ -1,0 +1,19 @@
+2 Earthquake
+4 Fireblast
+4 Grim Lavamancer
+4 Incinerate
+4 Jackal Pup
+4 Lightning Bolt
+4 Mishra's Factory
+4 Mogg Fanatic
+14 Mountain
+4 Pyrostatic Pillar
+4 Seal of Fire
+4 Sulfuric Vortex
+4 Wooded Foothills
+
+
+3 Flaring Pain
+4 Mogg Salvage
+4 Red Elemental Blast
+4 Tormod's Crypt

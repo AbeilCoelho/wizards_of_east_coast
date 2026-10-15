@@ -1,0 +1,24 @@
+3 Cephalid Coliseum
+4 Darkblast
+4 Faithless Looting
+4 Golgari Thug
+4 Otherworldly Gaze
+4 Persist
+4 Polluted Delta
+3 Scalding Tarn
+4 Sphinx of the Chimes
+12 Sphinx's Approach
+2 Steam Vents
+4 Stinkweed Imp
+2 Thassa's Oracle
+1 Thundering Falls
+1 Undercity Sewers
+2 Unearth
+2 Watery Grave
+
+
+3 Dispel
+4 Duress
+4 Fatal Push
+1 Meltdown
+3 Samut, Tyrant of Naktamun

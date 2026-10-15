@@ -1,0 +1,38 @@
+1 Alpha Deathclaw
+1 Assassin's Trophy
+3 Barrowgoyf
+4 Bayou
+1 Boseiju, Who Endures
+4 Cabal Therapy
+1 Endurance
+4 Forest
+4 Green Sun's Zenith
+1 Grist, the Hunger Tide
+1 Lazotep Quarry
+2 Malevolent Rumble
+1 Misty Rainforest
+3 Orcish Bowmasters
+2 Pernicious Deed
+2 Professor Dellian Fel
+3 Swamp
+2 The One Ring
+3 Thoughtseize
+1 Underground Mortuary
+4 Verdant Catacombs
+4 Veteran Explorer
+4 Vraska, the Cutting Glare
+1 Windswept Heath
+3 Witherbloom Charm
+1 Wooded Foothills
+
+
+1 Culling Ritual
+3 Disruptor Flute
+2 Endurance
+1 Fatal Push
+1 Keen-Eyed Curator
+2 Sheoldred's Edict
+1 Tear Asunder
+1 Toxic Deluge
+2 Veil of Summer
+1 Void Mirror

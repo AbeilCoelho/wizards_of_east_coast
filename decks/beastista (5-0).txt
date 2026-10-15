@@ -1,0 +1,45 @@
+1 Ancestral Recall
+3 Bilbo, Thief in the Night
+1 Black Lotus
+1 Brainstorm
+1 Demonic Tutor
+3 Fatal Push
+4 Flow State
+3 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Island
+1 Karakas
+3 Lórien Revealed
+1 Mental Misstep
+1 Misty Rainforest
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Null Rod
+1 Orcish Bowmasters
+4 Polluted Delta
+4 Psychic Frog
+3 Spell Pierce
+1 Strip Mine
+1 Swamp
+1 Thoughtseize
+1 Time Walk
+4 Underground Sea
+1 Urza's Saga
+4 Wasteland
+
+
+1 Annul
+2 Consign to Memory
+1 Dismember
+1 Fatal Push
+1 Feed the Swarm
+1 Flusterstorm
+2 Grafdigger's Cage
+1 Long Goodbye
+1 Lurrus of the Dream-Den
+1 Mystical Dispute
+2 Null Rod
+1 The Tabernacle at Pendrell Vale

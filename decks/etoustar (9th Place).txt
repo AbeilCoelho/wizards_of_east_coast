@@ -1,0 +1,56 @@
+1 Ancestral Recall
+4 Bilbo, Thief in the Night
+1 Black Lotus
+1 Chain of Vapor
+1 Demonic Tutor
+1 Fatal Push
+3 Flow State
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gifts Ungiven
+1 Gitaxian Probe
+2 Island
+3 Lórien Revealed
+1 Lotus Petal
+1 Mana Crypt
+1 Manifold Key
+1 Mental Misstep
+1 Merchant Scroll
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Pithing Needle
+4 Polluted Delta
+1 Scalding Tarn
+1 Sink into Stupor
+1 Sol Ring
+1 Soul-Guide Lantern
+4 Stock Up
+2 Thoughtseize
+1 Time Vault
+1 Time Walk
+1 Tolarian Academy
+1 Undercity Sewers
+3 Underground Sea
+1 Urza's Saga
+1 Yawgmoth's Will
+
+
+1 Annul
+1 Commandeer
+1 Consign to Memory
+1 Dismember
+1 Fatal Push
+1 Feed the Swarm
+1 Flusterstorm
+1 Hurkyl's Recall
+1 Long Goodbye
+1 Lurrus of the Dream-Den
+1 Soul-Guide Lantern
+1 Steel Sabotage
+1 Swamp
+1 Tormod's Crypt
+1 Yixlid Jailer

@@ -1,0 +1,27 @@
+2 Barren Moor
+4 Cabal Therapy
+4 Call of the Herd
+2 Chainer's Edict
+4 Duress
+4 Forest
+3 Gamekeeper
+3 Innocent Blood
+4 Llanowar Wastes
+4 Oath of Druids
+4 Pernicious Deed
+1 Phyrexian Tower
+2 Skeletal Scrying
+6 Swamp
+3 Terravore
+2 Tranquil Thicket
+4 Treetop Village
+4 Wasteland
+
+
+4 Engineered Plague
+1 Haunting Echoes
+3 Naturalize
+2 Phantom Nishoba
+2 Phyrexian Furnace
+1 Ravenous Baloth
+2 Tranquil Domain

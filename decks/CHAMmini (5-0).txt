@@ -1,0 +1,33 @@
+4 Cabal Therapy
+2 Call of the Herd
+2 City of Brass
+1 Diabolic Edict
+4 Duress
+1 Dust Bowl
+5 Forest
+2 Graveborn Muse
+4 Llanowar Wastes
+2 Naturalize
+4 Pernicious Deed
+1 Persecute
+4 Ravenous Baloth
+3 Ravenous Rats
+1 Recurring Nightmare
+2 Smother
+7 Swamp
+4 Treetop Village
+1 Volrath's Stronghold
+4 Wall of Blossoms
+2 Wall of Roots
+
+
+2 Choke
+1 Diabolic Edict
+2 Elvish Lyrist
+3 Engineered Plague
+1 Haunting Echoes
+1 Naturalize
+1 Phyrexian Furnace
+1 Smother
+2 Tormod's Crypt
+1 Tranquil Domain

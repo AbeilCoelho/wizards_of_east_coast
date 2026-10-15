@@ -1,0 +1,26 @@
+1 Anger
+3 Arrogant Wurm
+4 Basking Rootwalla
+4 Forest
+1 Goblin Tinkerer
+4 Grim Lavamancer
+4 Incinerate
+4 Karplusan Forest
+4 Lava Dart
+4 Lightning Bolt
+5 Mountain
+4 Quirion Dryad
+1 Squee, Goblin Nabob
+4 Survival of the Fittest
+2 Treetop Village
+3 Wasteland
+4 Wild Mongrel
+4 Wooded Foothills
+
+
+4 Cave-In
+2 Naturalize
+4 Pyroblast
+1 Red Elemental Blast
+3 Reverent Silence
+1 Uktabi Orangutan

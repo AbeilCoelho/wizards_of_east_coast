@@ -1,0 +1,38 @@
+1 Arnyn, Deathbloom Botanist
+4 Biotech Specialist
+3 Blazemire Verge
+1 Blood Crypt
+4 Blooming Marsh
+3 Callous Inspector
+1 Deadly Precision
+1 Forest
+1 Fountainport
+4 Gene Pollinator
+4 Greedy Freebooter
+1 Killmonger, Scourge of Wakanda
+3 Lively Dirge
+3 Obsessive Pursuit
+4 Overgrown Tomb
+1 Pitiless Carnage
+2 Rottenmouth Viper
+2 Silence the Echo
+4 Starting Town
+2 Stir Up Trouble
+3 Stomping Ground
+1 Swamp
+1 Tarrian's Journal
+4 The Sackville-Bagginses
+2 Umbral Collar Zealot
+1 Wolverine, Fierce Fighter
+
+
+1 Chandra, Spark Hunter
+3 Duress
+1 Obsessive Pursuit
+1 Professor Dellian Fel
+1 Requiting Hex
+1 Silence the Echo
+3 Strategic Betrayal
+1 Syr Ginger, the Meal Ender
+2 The Ooze
+1 Vengeful Tracker

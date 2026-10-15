@@ -1,0 +1,59 @@
+1 Ancestral Recall
+1 Black Lotus
+1 Bolas's Citadel
+1 Demonic Tutor
+1 Displacer Kitten
+2 Flame of Anor
+1 Flooded Strand
+2 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Into the Flood Maw
+1 Island
+1 Karn, the Great Creator
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Mental Misstep
+1 Merchant Scroll
+1 Misty Rainforest
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Paradoxical Outcome
+1 Polluted Delta
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sink into Stupor
+1 Sol Ring
+4 Stock Up
+1 Tezzeret, Cruel Captain
+1 Thundering Falls
+4 Thundertrap Trainer
+1 Time Vault
+1 Time Walk
+1 Tinker
+1 Tolarian Academy
+3 Underground Sea
+1 Urza's Saga
+1 Vampiric Tutor
+1 Vexing Bauble
+2 Volcanic Island
+1 Yawgmoth's Will
+
+
+1 By Force
+2 Consign to Memory
+1 Dismember
+1 Fatal Push
+2 Hexing Squelcher
+1 Hullbreacher
+1 Hurkyl's Recall
+1 Pithing Needle
+1 Portal to Phyrexia
+2 Pyroblast
+1 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt

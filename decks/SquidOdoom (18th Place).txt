@@ -1,0 +1,40 @@
+1 Ancestral Recall
+3 Barrowgoyf
+3 Bilbo, Thief in the Night
+1 Bloodstained Mire
+1 Brainstorm
+4 Dark Ritual
+1 Demonic Tutor
+1 Fatal Push
+4 Force of Will
+4 Grief
+1 Long Goodbye
+3 Mai, Scornful Striker
+1 Mana Crypt
+1 Mental Misstep
+1 Metamorphosis Fanatic
+1 Mox Pearl
+1 Mox Ruby
+2 Murktide Regent
+3 Polluted Delta
+4 Reanimate
+1 Sol Ring
+1 Strip Mine
+2 Swamp
+2 Thoughtseize
+1 Time Walk
+3 Troll of Khazad-dûm
+1 Undercity Sewers
+4 Underground Sea
+1 Vampiric Tutor
+1 Vexing Bauble
+2 Wasteland
+
+
+2 Dauthi Voidwalker
+2 Force of Negation
+1 Grafdigger's Cage
+4 Leyline of the Void
+2 Long Goodbye
+2 Mindbreak Trap
+2 Null Rod

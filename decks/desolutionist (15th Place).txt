@@ -1,0 +1,30 @@
+4 Ancient Tomb
+4 City of Traitors
+4 Counterspell
+4 Crosis's Catacombs
+1 Deep Analysis
+3 Fact or Fiction
+1 Forbid
+4 Goblin Welder
+3 Intuition
+4 Island
+4 Lotus Petal
+2 Mox Diamond
+4 Shivan Reef
+1 Thopter Squadron
+4 Tinker
+1 Tormod's Crypt
+3 Triskelion
+4 Tsabo's Web
+4 Urza's Bauble
+1 Zuran Orb
+
+
+3 Annul
+2 Blue Elemental Blast
+2 Hydroblast
+3 Overload
+1 Pyroblast
+1 Red Elemental Blast
+2 Tormod's Crypt
+1 Triskelion

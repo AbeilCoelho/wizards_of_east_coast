@@ -1,0 +1,32 @@
+1 Aether Spellbomb
+3 Basim Ibn Ishaq
+4 Darkslick Shores
+3 Emry, Lurker of the Loch
+4 Engineered Explosives
+2 Island
+4 Kappa Cannoneer
+3 Metallic Rebuke
+4 Mishra's Bauble
+2 Mox Amber
+4 Mox Opal
+4 Pinnacle Emissary
+1 Pithing Needle
+4 Polluted Delta
+2 Preordain
+1 Scalding Tarn
+1 Shadowspear
+1 Skateboard
+1 Steam Vents
+4 Tormod's Crypt
+4 Urza's Saga
+2 Watery Grave
+1 Welding Jar
+
+
+3 Consign to Memory
+4 Fatal Push
+1 Grafdigger's Cage
+1 Metallic Rebuke
+1 Swan Song
+4 Thoughtseize
+1 Vexing Bauble

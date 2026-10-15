@@ -1,0 +1,28 @@
+4 Brushland
+1 Cataclysm
+3 Forest
+4 Mishra's Factory
+4 Oath of Druids
+1 Plains
+1 Ray of Revelation
+4 Rishadan Port
+4 Sphere of Resistance
+1 Sungrass Prairie
+3 Swords to Plowshares
+4 Sylvan Library
+4 Terravore
+4 Thermokarst
+3 Treetop Village
+4 Wasteland
+4 Wild Growth
+4 Windswept Heath
+3 Winter's Grasp
+
+
+3 Call of the Herd
+1 Cataclysm
+1 Cursed Totem
+4 Naturalize
+3 Smokestack
+1 Swords to Plowshares
+2 Zuran Orb

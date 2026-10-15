@@ -1,0 +1,35 @@
+1 Anger
+4 Birds of Paradise
+1 Caller of the Claw
+2 Deranged Hermit
+7 Forest
+2 Fyndhorn Elves
+3 Gaea's Cradle
+2 Goblin Bombardment
+3 Karplusan Forest
+2 Llanowar Elves
+1 Masticore
+1 Mountain
+3 Multani's Acolyte
+2 Nantuko Vigilante
+1 Orcish Settlers
+2 Priest of Titania
+2 Quirion Ranger
+1 Ravenous Baloth
+3 Rishadan Port
+1 Squee, Goblin Nabob
+4 Survival of the Fittest
+1 Thornscape Battlemage
+3 Wall of Roots
+3 Wirewood Symbiote
+4 Wooded Foothills
+1 Yavimaya Granger
+
+
+1 Goblin Tinkerer
+1 Masticore
+4 Naturalize
+3 Pyroclasm
+2 Ravenous Baloth
+2 Tormod's Crypt
+2 Winter Orb

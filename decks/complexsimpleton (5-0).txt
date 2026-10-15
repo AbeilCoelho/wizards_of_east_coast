@@ -1,0 +1,96 @@
+1 Abstergo Entertainment
+1 Agna Qel'a
+1 Akroma's Vengeance
+1 Archmage's Charm
+1 Arid Mesa
+1 Azorius Chancery
+1 Brainsurge
+1 Cactus Preserve
+1 Castle Vantress
+1 Celestial Colonnade
+1 Command Tower
+1 Consult the Star Charts
+1 Counterspell
+1 Cryptic Command
+1 Demolition Field
+1 Disruptor Flute
+1 Dream Trawler
+1 Dust Bowl
+1 Elminster
+1 Emergency Eject
+1 Erode
+1 Farewell
+1 Fateful Absence
+1 Field of Ruin
+1 Flooded Strand
+1 Force of Negation
+1 Force Spike
+1 Fractured Identity
+1 Get Lost
+1 Great Hall of the Biblioplex
+1 Hall of Storm Giants
+1 Hallowed Fountain
+1 Hullbreaker Horror
+1 Jace, the Mind Sculptor
+1 Logic Knot
+1 Lórien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Mana Tithe
+1 Marsh Flats
+1 Memory Lapse
+1 Mental Misstep
+1 Meticulous Archive
+1 Mistrise Village
+1 Misty Rainforest
+1 Myriad Landscape
+1 Mystic Confluence
+1 Mystic Sanctuary
+1 Mystical Dispute
+1 No More Lies
+1 Otawara, Soaring City
+1 Oust
+2 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Relic of Progenitus
+1 Remand
+1 Reprieve
+1 Rest in Peace
+1 Restless Anchorage
+1 Scalding Tarn
+1 Scavenger Grounds
+1 Shorikai, Genesis Engine
+1 Sink into Stupor
+1 Snapcaster Mage
+6 Snow-Covered Island
+1 Solitude
+1 Spectacular Pileup
+1 Spell Pierce
+1 Spell Snare
+1 Static Prison
+1 Stern Scolding
+1 Stock Up
+1 Subtlety
+1 Swords to Plowshares
+1 Tale's End
+1 Teferi, Hero of Dominaria
+1 Teferi, Time Raveler
+1 The Theorist, Jace Beleren
+1 The Wandering Emperor
+1 Theorist's Sanctum
+1 Three Steps Ahead
+1 Throne of the High City
+1 Tishana's Tidebinder
+1 Tithe
+1 Tundra
+1 Ultima
+1 Unexpectedly Absent
+1 Wash Away
+1 What Must Be Done
+1 Windswept Heath
+1 Witch Enchanter
+1 Wrath of the Skies
+
+
+1 Aang, Swift Savior

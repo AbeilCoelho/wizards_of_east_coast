@@ -1,0 +1,31 @@
+1 Cabal Therapy
+4 Caves of Koilos
+4 Decree of Justice
+4 Duress
+2 Dust Bowl
+3 Eternal Dragon
+2 Exalted Angel
+4 Gerrard's Verdict
+1 Haunting Echoes
+1 Phyrexian Furnace
+9 Plains
+1 Seal of Cleansing
+1 Secluded Steppe
+3 Skeletal Scrying
+9 Swamp
+4 Swords to Plowshares
+4 Vindicate
+3 Wrath of God
+
+
+1 Defense Grid
+3 Engineered Plague
+1 Enlightened Tutor
+1 Haunting Echoes
+1 Phyrexian Arena
+1 Powder Keg
+1 Presence of the Master
+1 Sacred Ground
+2 Seal of Cleansing
+1 Tormod's Crypt
+2 Warmth

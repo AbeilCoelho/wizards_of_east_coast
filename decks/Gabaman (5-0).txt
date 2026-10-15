@@ -1,0 +1,34 @@
+1 Anger
+3 Deranged Hermit
+1 Elvish Scrapper
+9 Forest
+4 Fyndhorn Elves
+4 Gaea's Cradle
+1 Kamahl, Fist of Krosa
+4 Llanowar Elves
+1 Masticore
+1 Mountain
+3 Multani's Acolyte
+1 Nantuko Vigilante
+3 Priest of Titania
+3 Quirion Ranger
+1 Squee, Goblin Nabob
+4 Survival of the Fittest
+4 Tangle Wire
+1 Wall of Blossoms
+1 Wall of Roots
+1 Wellwisher
+4 Wirewood Symbiote
+4 Wooded Foothills
+1 Yavimaya Granger
+
+
+1 Elvish Scrapper
+3 Naturalize
+2 Null Rod
+1 Ravenous Baloth
+3 Tormod's Crypt
+1 Uktabi Orangutan
+1 Wall of Blossoms
+1 Wall of Roots
+2 Winter Orb

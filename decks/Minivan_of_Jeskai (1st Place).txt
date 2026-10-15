@@ -1,0 +1,38 @@
+1 Anurid Brushhopper
+3 Armageddon
+1 Battlefield Forge
+3 Call of the Herd
+2 City of Brass
+1 Darigaaz's Caldera
+1 Disenchant
+1 Earthquake
+2 Forest
+3 Gemstone Mine
+4 Mox Diamond
+1 Naturalize
+2 Plains
+2 Rishadan Port
+1 Rith's Grove
+1 Secluded Steppe
+4 Swords to Plowshares
+4 Sylvan Library
+4 Terravore
+1 Tranquil Thicket
+2 Treetop Village
+3 Vindicate
+4 Wasteland
+3 Weathered Wayfarer
+2 Werebear
+4 Windswept Heath
+
+
+1 Aura of Silence
+1 Circle of Protection: Red
+1 Gaea's Blessing
+1 Naturalize
+2 Pyroblast
+4 Pyroclasm
+1 Red Elemental Blast
+2 Tormod's Crypt
+1 Tranquil Domain
+1 Zuran Orb

@@ -1,0 +1,37 @@
+1 Ancestral Recall
+4 Animate Dead
+3 Atraxa, Grand Unifier
+1 Bayou
+1 Black Lotus
+2 Bloodstained Mire
+1 Borborygmos Enraged
+4 Dark Ritual
+1 Demonic Tutor
+4 Entomb
+1 Flash
+1 Gitaxian Probe
+4 Grief
+4 Griselbrand
+1 Lotus Petal
+2 Marsh Flats
+1 Mental Misstep
+1 Metamorphosis Fanatic
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+2 Polluted Delta
+4 Reanimate
+2 Swamp
+1 Time Walk
+1 Troll of Khazad-dûm
+1 Undercity Sewers
+2 Underground Sea
+4 Unmask
+1 Vampiric Tutor
+2 Verdant Catacombs
+
+
+4 Chain of Smog
+3 Dismember
+4 Show and Tell
+4 Witherbloom Apprentice

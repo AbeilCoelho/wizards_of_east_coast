@@ -1,0 +1,102 @@
+1 Ancient Spring
+1 Arcane Signet
+1 Arid Mesa
+1 Badlands
+1 Big Score
+1 Bloodstained Mire
+1 Brainstorm
+1 Cabal Ritual
+1 Chain Lightning
+1 City of Brass
+1 Command Tower
+1 Consider
+1 Consult the Star Charts
+1 Demonic Tutor
+1 Dismember
+1 Dream's Grip
+1 Duress
+1 Evasive Action
+1 Expressive Iteration
+1 Fable of the Mirror-Breaker
+1 Fatal Push
+1 Fatehold Charm
+1 Fire Nation Occupation
+1 Flashback
+1 Flooded Strand
+1 Floodfarm Verge
+1 Flow State
+1 Forth Eorlingas!
+1 Galvanic Discharge
+1 Gigadrowse
+1 Gitaxian Probe
+1 Gloomlake Verge
+1 Hallowed Fountain
+1 Hard Evidence
+1 Hidden Strings
+1 High Tide
+1 Inquisition of Kozilek
+1 Intuition
+1 Island
+1 Jace's Machinations
+1 Lightning Bolt
+1 Lórien Revealed
+1 Mana Confluence
+1 Marsh Flats
+1 Memory Lapse
+1 Mental Misstep
+1 Merchant Scroll
+1 Meticulous Archive
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Occult Epiphany
+1 Orim's Chant
+1 Pact of Negation
+1 Peek
+1 Pentad Prism
+1 Plateau
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismari Command
+1 Prismari, the Inspiration
+1 Prismatic Vista
+1 Redirect Lightning
+1 Remand
+1 Reprieve
+1 Rite of Flame
+1 Scalding Tarn
+1 Scrubland
+1 Silence
+1 Snap
+1 Snow-Covered Island
+1 Solve the Equation
+1 Spell Pierce
+1 Spell Snare
+1 Staff of the Storyteller
+1 Steam Vents
+1 Stingerquill Charm
+1 Stock Up
+1 Stormchaser's Talent
+1 Strike It Rich
+1 Sulfur Vent
+1 Swamp
+1 Swords to Plowshares
+1 Theorist's Sanctum
+1 Thoughtseize
+1 Thundering Falls
+1 Toxic Deluge
+1 Tundra
+1 Twiddle
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wash Away
+1 Watery Grave
+1 Way of the Pyromancer
+1 Windswept Heath
+1 Wooded Foothills
+1 Xander's Lounge
+
+
+1 Jace, Multiverse Architect
